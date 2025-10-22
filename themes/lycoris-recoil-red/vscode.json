@@ -1,0 +1,45 @@
+{
+  "name": "My Custom Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0d0c0c",
+    "editor.foreground": "#f5f5f5",
+    "activityBar.background": "#1a1a1a",
+    "sideBar.background": "#111",
+    "statusBar.background": "#111",
+    "tab.activeBackground": "#9b0600",
+    "tab.inactiveBackground": "#1c1c1c",
+    "editorCursor.foreground": "#ff3333",
+    "terminal.ansiBlack": "#1a1a1a",
+    "terminal.ansiRed": "#b9514d",
+    "terminal.ansiGreen": "#9b0600",
+    "terminal.ansiYellow": "#8c0500",
+    "terminal.ansiBlue": "#a51f1a",
+    "terminal.ansiMagenta": "#9b0600",
+    "terminal.ansiCyan": "#9b0600",
+    "terminal.ansiWhite": "#f5f5f5"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#6a6a6a", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": { "foreground": "#b9514d", "fontStyle": "bold" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#ffb4a2" }
+    },
+    {
+      "scope": ["variable", "parameter"],
+      "settings": { "foreground": "#f2f2f2" }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": { "foreground": "#ff7b72" }
+    }
+  ],
+  "workbench.sideBar.location": "right"
+}

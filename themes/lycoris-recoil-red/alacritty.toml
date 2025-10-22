@@ -1,0 +1,35 @@
+[colors.primary]
+background = "#0d0c0c"
+foreground = "#af3833"
+
+[colors.normal]
+black   = "#1a1818"  
+red     = "#b12a1f"  
+green   = "#d15348"  
+yellow  = "#e0785f"  
+blue    = "#b9514d"  
+magenta = "#af3833"  
+cyan    = "#a51f1a"  
+white   = "#f2c6bc"  
+
+
+
+[colors.bright]
+black   = "#6c312f"
+red     = "#ff1a11"  # Totem Pole 500 — vivid red
+green   = "#7a8f6a"
+yellow  = "#d89b6c"
+blue    = "#506170"
+magenta = "#986070"
+cyan    = "#6c8c8f"
+white   = "#f2eeed"
+
+[colors.dim]
+black   = "#0f0f0f"
+red     = "#560300"  # Totem Pole 950 — dark variant
+green   = "#3e4a3c"
+yellow  = "#8a6840"
+blue    = "#323d47"
+magenta = "#573744"
+cyan    = "#3a5457"
+white   = "#a39c9a"

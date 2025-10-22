@@ -1,0 +1,81 @@
+# Totem Red Dark Theme for btop
+# Based on user color palette: background #0D0C0C, accent #9B0600
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0D0C0C"
+
+# Main text color
+theme[main_fg]="#9B0600"
+
+# Title color for boxes
+theme[title]="#C23020"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#D14737"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1A0E0E"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#E36A59"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#662A24"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#B23627"
+
+# Cpu box outline color
+theme[cpu_box]="#1E1111"
+
+# Memory/disks box outline color
+theme[mem_box]="#1E1111"
+
+# Net up/down box outline color
+theme[net_box]="#1E1111"
+
+# Processes box outline color
+theme[proc_box]="#1E1111"
+
+# Box divider line and small boxes line color
+theme[div_line]="#2A1615"
+
+# Temperature graph colors
+theme[temp_start]="#9B0600"
+theme[temp_mid]="#C73B2A"
+theme[temp_end]="#ECA59A"
+
+# CPU graph colors
+theme[cpu_start]="#9B0600"
+theme[cpu_mid]="#C73B2A"
+theme[cpu_end]="#ECA59A"
+
+# Mem/Disk free meter
+theme[free_start]="#7F1E14"
+theme[free_mid]="#9B0600"
+theme[free_end]="#C73B2A"
+
+# Mem/Disk cached meter
+theme[cached_start]="#9B0600"
+theme[cached_mid]="#C73B2A"
+theme[cached_end]="#ECA59A"
+
+# Mem/Disk available meter
+theme[available_start]="#C73B2A"
+theme[available_mid]="#E36A59"
+theme[available_end]="#ECA59A"
+
+# Mem/Disk used meter
+theme[used_start]="#9B0600"
+theme[used_mid]="#C73B2A"
+theme[used_end]="#ECA59A"
+
+# Download graph colors
+theme[download_start]="#9B0600"
+theme[download_mid]="#C73B2A"
+theme[download_end]="#ECA59A"
+
+# Upload graph colors
+theme[upload_start]="#9B0600"
+theme[upload_mid]="#C73B2A"
+theme[upload_end]="#ECA59A"
